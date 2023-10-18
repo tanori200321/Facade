@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Facade
 {
-    internal class Subsistema3
+    public class Subsistema3
     {
         public void Operacion3()
         {
